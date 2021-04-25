@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Estatísticas GitHub de Adriano Rodrigues](https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&theme=radical)
+![Estatísticas GitHub de Adriano Rodrigues](https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&theme=dracula)
 
 <!--
 **Adrianopvh/Adrianopvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
