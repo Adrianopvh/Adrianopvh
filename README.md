@@ -1,6 +1,6 @@
 <h1 align="center">Olá, amigos <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32px" height="32px">, sou Adriano Rodrigues </h1>
 
-- 😎 Atualmente aluno da [Rocketseat] (https://github.com/Rocketseat)
+- 😎 Atualmente aluno da [Rocketseat](https://github.com/Rocketseat)
 
 
 
