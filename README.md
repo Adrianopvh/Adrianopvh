@@ -5,7 +5,7 @@
 - 🚀 Currently a student at [Rocketseat](https://github.com/Rocketseat)
 - 📧 Contacts can be made by **adriano@c3awebsite.com**
 
-<p align="center">
+<p align="center" display="block">
 <a href="https://github.com/Adrianopvh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
