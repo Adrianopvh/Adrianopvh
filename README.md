@@ -2,8 +2,8 @@
 
 <h2 align="center"> Student dedicated to learning with goals in Full-Stack technologies </h2>
 
-- 😎 Atualmente aluno da [Rocketseat](https://github.com/Rocketseat)
-  
+- 🚀 Currently a student at [Rocketseat](https://github.com/Rocketseat)
+- 📧 Contacts can be made by **adriano@c3awebsite.com**
 
 
 ![Estatísticas GitHub de Adriano Rodrigues](https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&theme=escuro)
