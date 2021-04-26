@@ -1,3 +1,8 @@
+<h1 align="center">Olá, amigos <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32px" height="32px">, sou Adriano Rodrigues </h1>
+
+- 😎 Atualmente aluno da [Rocketseat] (https://github.com/Rocketseat)
+
+
 
 ![Estatísticas GitHub de Adriano Rodrigues](https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&theme=escuro)
 
