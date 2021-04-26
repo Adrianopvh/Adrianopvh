@@ -1,6 +1,6 @@
 <h1 align="center">Olá, amigos <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32px" height="32px">, sou Adriano Rodrigues </h1>
 
-<h2 align="center"> Aluno dedicado no aprendizado com objetivos nas tecnologias git aFull-Stack </h2>
+<h2 align="center"> Student dedicated to learning with goals in git aFull-Stack technologies </h2>
 
 - 😎 Atualmente aluno da [Rocketseat](https://github.com/Rocketseat)
   
