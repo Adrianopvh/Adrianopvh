@@ -9,11 +9,11 @@
 - 🚀 Currently a student at [Rocketseat](https://github.com/Rocketseat)
 - 📧 Contacts can be made by **adriano@c3awebsite.com**
 - 🔗 Personal project in progress [C3awebsite](https://www.c3awebsite.com/)
-- 🤝 I can contribute with ##CSS ##HTML #JavaScript ##NodeJs
+- 🤝 I can contribute with <u>##CSS ##HTML ##JavaScript ##NodeJs</u>
 
 <br>
 
-###Main Stack
+<u>Main Stack</u>
 
 
 
