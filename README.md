@@ -1,7 +1,11 @@
 <h1 align="center">Hello friends <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32px" height="32px">, I'm Adriano Rodrigues </h1>
 
+  <br>
+
 <h2 align="center"> Student dedicated to learning with goals in Full-Stack technologies </h2>
 
+  <br>
+  
 - 🚀 Currently a student at [Rocketseat](https://github.com/Rocketseat)
 - 📧 Contacts can be made by **adriano@c3awebsite.com**
 - 🔗 Projeto pessoal em andamento [C3awebsite](https://www.c3awebsite.com/)
