@@ -4,6 +4,7 @@
 
 - 🚀 Currently a student at [Rocketseat](https://github.com/Rocketseat)
 - 📧 Contacts can be made by **adriano@c3awebsite.com**
+- 🔗 Projeto pessoal em andamento [C3awebsite](https://www.c3awebsite.com/)
 
 <p align="center" display="block">
 <a href="https://github.com/Adrianopvh/github-readme-stats">
