@@ -5,7 +5,7 @@
 <h2 align="center"> Student dedicated to learning with goals in Full-Stack technologies </h2>
 
   <br>
-  
+    
 - 🚀 Currently a student at [Rocketseat](https://github.com/Rocketseat)
 - 📧 Contacts can be made by **adriano@c3awebsite.com**
 - 🔗 Personal project in progress [C3awebsite](https://www.c3awebsite.com/)
