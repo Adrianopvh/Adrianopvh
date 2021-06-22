@@ -22,18 +22,24 @@
 <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-</br>
 <div margin-top="10px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianopvh&layout=compact&theme=material-palenight" align="right" />
+<p align="center">
+  <a href="https://github.com/Adrianopvh/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianopvh&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Adrianopvh&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 </div>
-  
-![Adrianopvh GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&custom_title=Adrianopvh's+Stats)
 
-</br>
-
-<a href="https://github.com/Adrianopvh/github-readme-stats" />
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-</a>
   
 
 <!--****
