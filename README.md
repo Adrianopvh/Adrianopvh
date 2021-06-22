@@ -22,20 +22,19 @@
 <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-<br>
+</br>
+<div margin-top="10px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianopvh&layout=compact&theme=material-palenight" align="right" />
+</div>
+  
+![Adrianopvh GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&custom_title=Adrianopvh's+Stats)
 
-<p align="center" display="block">
-<a href="https://github.com/Adrianopvh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrianopvh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-  <br>
-  <br>
-<a href="https://github.com/Adrianopvh/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianopvh&layout=compact&theme=material-palenight" />
-</a>
-</p>
+</br>
 
+<a href="https://github.com/Adrianopvh/github-readme-stats" />
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+</a>
+  
 
 <!--****
 **Adrianopvh/Adrianopvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
